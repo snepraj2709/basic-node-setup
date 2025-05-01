@@ -18,4 +18,4 @@ A lightweight Python script to quickly scaffold a **Node.js + TypeScript** proje
 2. Run the Python script with your desired project name:
 
 ```bash
-python create_node_ts_project.py <your-project-name>
+python basic_node_app.py <your-project-name>
